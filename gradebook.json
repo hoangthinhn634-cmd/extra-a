@@ -1,0 +1,23 @@
+[
+    {
+        "code": "AU005.2",
+        "name": "tin",
+        "credits": 100.0,
+        "semester": "5",
+        "score": 90.0
+    },
+    {
+        "code": "AU004.2",
+        "name": "English for Purpose",
+        "credits": 3,
+        "semester": "2025A",
+        "score": 90.0
+    },
+    {
+        "code": "AU009",
+        "name": "Math",
+        "credits": 3.0,
+        "semester": "5",
+        "score": 9.0
+    }
+]
